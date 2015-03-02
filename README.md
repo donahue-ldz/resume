@@ -1,28 +1,28 @@
-#邵明全个人简历
+#李德钊个人简历
 
 > code the life
 
 ##基本信息
 
-姓名：邵明全
+姓名：李德钊
 
 性别：男
 
-生日：1993-08-26
+生日：1993-08-23
 
 在读学校：大连理工大学
 
-系别（专业）：网络工程（网络安全）
+系别（专业）：软件工程（软件开发与测试）
 
-期望职位：front-end
+期望职位：后端开发
 
-邮箱：1218525419@qq.com
+邮箱：ldz2012yn@gmail.com
 
-QQ：1218525419
+QQ：1285310383
 
-电话：18741133436
+电话：18840838495
 
-github：[shaomingquan](https://github.com/shaomingquan)
+github：[donahue-ldz](https://github.com/donahue-ldz)
 
 ##技能概述
 
