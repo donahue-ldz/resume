@@ -91,11 +91,14 @@
 多个项目由简到难实践，详解见[github](https://github.com/donahue-ldz)
 
 ---
-
 ##其他账号
+
 github账号：[donahue-ldz](https://github.com/donahue-ldz)
+
 个人博客地址：[程序人生](http://www.donahuelives.com)
+
 github博客：[心缘冰河](http://donahue-ldz.github.io)
+
 
 ---
 
