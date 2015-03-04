@@ -25,16 +25,19 @@
 ---
 
 ##技能概述
+
 ####编程语言（平台）熟练程度排序：
 
 1. java
 2. c/c++
 3. php,python
 4. js,html
-####框架熟悉程度：
+
+####框架熟悉程度
 1. spring
 2. struct2，hibernate，netty
 3. extjs，TestNG,Junit
+
 ####其他
 * 熟练使用mysql，oracle等主流数据库
 * 熟练使用maven，git等项目管理工具
