@@ -1,103 +1,94 @@
 #李德钊个人简历
 
-> code the life
+> 科技引领时尚，技术成就未来
 
+---
 ##基本信息
 
-姓名：李德钊
-
-性别：男
-
-生日：1993-08-23
-
-在读学校：大连理工大学
-
-系别（专业）：软件工程（软件开发与测试）
-
-期望职位：后端开发
-
-邮箱：ldz2012yn@gmail.com
-
-QQ：1285310383
-
-电话：18840838495
-
-github：[donahue-ldz](https://github.com/donahue-ldz)
+<table>
+    <tr>
+        <td>姓名：</td><td>李德钊</td><td>性别：</td><td>男</td>
+    </tr>
+    <tr>
+        <td>邮箱：</td><td>ldz2012yn@gmail.com</td><td>电话：</td><td>18840838495</td>
+    </tr>
+    <tr>
+    <td>生日：</td><td>1993-08-21</td><td>在读学校：</td><td>大连理工大学</td>
+    </tr>
+     <tr>
+    <td>系别：</td><td>软件工程（软件开发与测试）</td><td>期望职位：</td><td>研发工程师JAVA</td>
+    </tr>
+    <tr>
+    <td>QQ：</td><td>1285310383</td><td>微信：</td><td>donahueWX</td>
+    </tr>
+</table>
+---
 
 ##技能概述
+####编程语言（平台）熟练程度排序：
 
-热爱web编程，课余时间主攻web前端编程，同时也可以完成基本的服务器端应用，熟练掌握chrome调试工具使用，熟悉面向对象以及函数式编程泛型，有丰富的团队线上合作经验，具有快速上手框架的能力，熟悉linux平台，有阅读技术技术文章以及博客的习惯。
+1. java
+2. c/c++
+3. php,python
+4. js,html
+####框架熟悉程度：
+1. spring
+2. struct2，hibernate，netty
+3. extjs，TestNG,Junit
+####其他
+* 熟练使用mysql，oracle等主流数据库
+* 熟练使用maven，git等项目管理工具
+* 熟练使用tomcat，jetty，nginx等服务器
+* 喜欢使用linux，能常见shell编程，能进行linux环境的编程
 
-熟练掌握javascript，css，html，css+div布局，HTML5以及css3等web新特性，jQuery工具框架，angularjs框架，手机端web的构建，响应式web设计，nodejs+express+mongodb服务器搭建。有实践经验但接触不频繁的技术：php，j2ee，seajs模块化工具库，grunt前端项目自动化工具，bootstrap等栅格体系，WordPress二次开发，h5中的api不再赘述。了解网络编程，ECMAscript新特性，koa等下一代新技术。
+---
 
-主要编程工具：sublime text 3
 
-编程语言（平台）熟练程度排序：
-
-1. javascript
-2. html，css，node
-3. Java，php
-4. c，c++
 
 ##项目经历
+###公司项目
+###cmc框架设计
 
-###赫赫大酒楼点餐系统
+`时间：2014-6~2014-10`
 
-时间：2013-10~2013-12
+**项目简介**: 大连宏基恒信公司的一个后台通用管理框架，支持界面多模块可视化配置。
+**我的主要工作**：数据库的架构的设计和实现，负责代码字典和系统日志版块的。
 
-我的工作：客户端（订餐者页面）前端布局以及脚本，包括基本布局（只需适配手机），美工要求的页面效果，Ajax通信接口调用。
+###邻家铺子
 
-项目简介：是由大连云间牧场公司承担的web服务型项目，用于学生点餐，曾经部署在软院人微信客户端，现已下线，展示请看ui，请点击[这里](http://shaomingquan.sinaapp.com/hehe)。
+`时间：2013-08~2014-04`
 
-###巨饿订餐系统
+**项目简介**：手机app，一个点餐购物系统，能最快最近购物，由于公司原因停止，项目完成几乎八成。
+**我的工作**: 负责服务器后台编写，负责缓存模块的代码编写。 
+###极密盾平台运营管理系统
 
-时间：2014-8~2014-10
+`时间：2015-1~至今`
+**项目简介**:点击[官网](http://www.jimidun.com)。您可将重要的隐私信息、帐号密码存储在极密盾设备中，远离记录帐号密码、隐私秘密的烦恼。
+**我的工作**:需求文档编写，使用cmc框架负责后台用户管理模块和设备管理模块的编写。
+##学生项目
+####卖客交易市场
+`时间：2014-10~至今`
 
-我的工作：客户端所有布局以及脚本，包括基本布局（只需适配pc），美工要求的页面效果，Ajax通信接口调用。客串凭条打印机管理员（打印机调用为web版本写法）。
+**项目简介**：校园二手交易市场。网站共用3个子系统：买家web端，卖家系统，网站管理系统，项目现在正在收尾测试阶段。
+**我的主要工作**:项目发起和组织者，需求规格说明文档的书写，项目经度安排和管理，数据库的设计和实现，卖家系统的实现，负责服务器端的安全权限设计。
 
-项目简介：学长创业团队发起，o2o订餐平台，后台使j2ee的ssh框架。由于投资人问题，项目为投入使用，前端效果请点击[这里](http://shaomingquan.sinaapp.com/veryHangry)。
+###TEDxDalian
+`时间：2014-06~2014-08`
 
-###螺丝工作室管理展示及招新
+**项目简介**: 由TED社团组织为大连站设计的网站，对TED的诠释，精彩片段回访，本次但会的申请和审批
+**我的主要工作**: 技术负责人，后端开发，封装了全新统一的数据层持久层访问操作，省略了数据持久层的开发。
 
-时间：2014-10~2014-12
+---
+##编程经验
+多个项目由简到难实践，详解见[github](https://github.com/donahue-ldz)
 
-我的工作：
+---
+##其他账号
+github账号：[donahue-ldz](https://github.com/donahue-ldz)
+个人博客地址：[程序人生](http://www.donahuelives.com)
+github博客：[心缘冰河](http://donahue-ldz.github.io)
 
-1. 邀请以及组织开发成员，产品经理，使用Axsure绘制所有原型图，数据库设计（nosql）。
-2. 首页的全部代码，包括PC端效果制作，PC端angular单页多模板，手机端APPframework首页，与服务器的交互使用angular调用纯json接口（感谢美工汉子）。
-3. 招新页面全部代码，包括css3动画制作，手机传感器调用（感谢美工妹子）。
-
-项目简介：用于螺丝工作室的管理展示和招新。原型图请点击[这里](http://shaomingquan.sinaapp.com/studio)。首页请点击[这里](http://cippus.sinaapp.com/)，或者扫描如下二维码。
-
-![](http://shaomingquan.sinaapp.com/erweima/main.png)
-
-招新页面请扫描如下二维码。
-
-![](http://shaomingquan.sinaapp.com/erweima/spring.png)
-
-###麦客学生二手交易市场
-
-时间：2015-2至今
-
-我的工作：angular服务器端交互，grunt前端性能优化，帮学弟调bug。
-
-简介：校园二手交易市场。应用j2ee和angularjs。现处于收尾阶段，暂无演示。
-
-##其他编程经验
-
-1. 用javascript在web浏览器平台上完成一个lisp的解释器（scheme方言）,为熟悉函数式泛型，学习sicp的产物。点击[查看源码](https://github.com/shaomingquan/schemer)。
-- 在canvas上实现贝塞尔曲线运动，封装了canvas的一些绘图方法，参考了jQuery的animate源码。点击[查看源码](https://github.com/shaomingquan/B-zier-curve)。
-- 模仿web前端流行插件emmet的一个jQuery插件，跟emmet语法略有异同。点击[查看源码](https://github.com/shaomingquan/jqEmmet)。
-- 基于jsonp跨域技术的web端钓鱼网站举报系统，用于学院的创新实践项目。点击[查看源码](https://github.com/shaomingquan/antiPhishingSite)。
-- 给markdown加目录的小插件，样式自配，我的简历就是由这个小插件生成的目录，自动添加锚点，方便实用。点击[查看源码](https://github.com/shaomingquan/markdownenu)。
-- 更多有趣代码请访问我的[github](https://github.com/shaomingquan)。
-
-##获奖情况
-
-1. 2013-2014年度佳能奖学金
-- 大连理工大学2013-2014年度精神文明奖
-- 大连理工大学软件学院web应用大赛三等奖（软院家教中心）
-- 全国计算机大赛省级三等奖（基于thinkPHP的词条管理系统）
+---
 
 ##自我评价
 
