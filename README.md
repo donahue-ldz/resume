@@ -1,4 +1,4 @@
-#个人简历
+#周忠个人简历
 
 > 科技引领时尚，技术成就未来
 
@@ -7,19 +7,19 @@
 
 <table>
     <tr>
-        <td>姓名：</td><td>李德钊</td><td>性别：</td><td>男</td>
+        <td>姓名：</td><td>周忠</td><td>性别：</td><td>男</td>
     </tr>
     <tr>
-        <td>邮箱：</td><td>ldz2012yn@gmail.com</td><td>电话：</td><td>18840838495</td>
+        <td>邮箱：</td><td>zgdolt@gmail.com</td><td>电话：</td><td>18340862078</td>
     </tr>
     <tr>
-    <td>生日：</td><td>1993-08-21</td><td>在读学校：</td><td>大连理工大学</td>
+    <td>生日：</td><td>1993-08-02</td><td>在读学校：</td><td>大连理工大学</td>
     </tr>
      <tr>
-    <td>系别：</td><td>软件工程（软件开发与测试）</td><td>期望职位：</td><td>研发工程师JAVA</td>
+    <td>系别：</td><td>软件工程（嵌入式）</td><td>期望职位：</td><td>研发工程师JAVA</td>
     </tr>
     <tr>
-    <td>QQ：</td><td>1285310383</td><td>微信：</td><td>donahueWX</td>
+    <td>QQ：</td><td>635884063</td><td>微信：</td><td>Chorles</td>
     </tr>
 </table>
 ---
