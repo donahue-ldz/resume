@@ -19,7 +19,7 @@
     <td>系别：</td><td>软件工程（软件开发与测试）</td><td>期望职位：</td><td>服务器后端开发</td>
     </tr>
     <tr>
-    <td>QQ：</td><td>1285310383</td><td>微信：</td><td>donahueWX</td>
+    <td>QQ：</td><td>1285310383</td><td>毕业年份：</td><td>2016年</td>
     </tr>
 </table>
 ---
