@@ -22,7 +22,7 @@
     <td>QQ：</td><td>1285310383</td><td>毕业年份：</td><td>2016年</td>
     
     <tr>
-    <td colspan='2'>微信：</td><td>donahueWX</td>
+    <td>微信：</td><td colspan='3'>donahueWX</td>
     </tr>
     </tr>
 </table>
