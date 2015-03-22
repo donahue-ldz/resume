@@ -20,6 +20,7 @@
     </tr>
     <tr>
     <td>QQ：</td><td>1285310383</td><td>毕业年份：</td><td>2016年</td>
+    <td colspan='2'>微信：</td><td>donahueWX</td>
     </tr>
 </table>
 ---
