@@ -29,18 +29,21 @@
 ---
 
 ##技能概述
+
 ####编程语言（平台）熟练程度排序
 1. java
 2. c/c++
-3. php,python
-4. js,html
+3. php,js
+4. python,html
 
 ####框架熟悉程度
+
 1. spring,webx
 2. struct2,hibernate,netty,lucene
-3. extjs,testNG,junit
+3. extjs,testNG,junit,jquery
 
 ####其他
+
 * 熟练使用mysql,oracle等主流数据库
 * 熟练使用maven,git,svn等项目管理工具
 * 熟练使用tomcat,jetty,nginx等服务器
@@ -51,12 +54,13 @@
 
 
 ##实习经历
-* 2015年--至今   阿里巴巴
+* 2015年--至今   阿里巴巴（共享业务事业部）
 * 2014年大连[宏基恒信公司](http://www.higinet.com.cn/)
 
 ---
 
 ##项目经历
+
 ###公司项目（仅指2014年）
 * 2015年--至今  阿里巴巴软件研发工程师。
 * 2014在公司实习大约一年时间，参与公司培训，获得师兄辅导，参与相关产品的研发，团队互相帮助。
@@ -110,5 +114,6 @@ github账号：[donahue-ldz](https://github.com/donahue-ldz)
 个人博客地址：[程序人生](http://www.donahuelives.com)   
 github博客：[心缘冰河](https://donahue-ldz.github.io/)
 
+>> 备注：账号由于在这边实习很久没有更新了，相关文章全部发布在阿里ATA里面了！相关项目全部转移公司gitLab！
 
 ---
